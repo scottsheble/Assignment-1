@@ -7,7 +7,9 @@
 
     Date Due: 9/08/2023
 
-    Purpose: Compiler Training
+    Purpose: This program calculates and displays the
+    profit per value of harvested crops as done in
+    farming simulation video games.
 
     Created by scott sheble on 8/28/23.
 *********************************************************/
